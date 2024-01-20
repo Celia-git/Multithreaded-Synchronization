@@ -1,8 +1,8 @@
 
-package pkg2800_project4_2;
+package src;
 
-import pkg2800_project4_2.Car;
-import pkg2800_project4_2.Bridge;
+import src.Car;
+import src.Bridge;
 
 /**
  *
