@@ -1,7 +1,7 @@
 
-package pkg2800_project4_2;
+package src;
 
-import pkg2800_project4_2.Car;
+import src.Car;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.logging.Level;
