@@ -9,10 +9,10 @@ Bridge class uses synchronization to simulate crossing.<br>
 - compile Java code in one line<br>  
   -ie, on Windows:
   ```
-  javac src/Main.java src/Bridge.java src/Car.java
+  javac Main.java Bridge.java Car.java
   ```
 - run Main<br>  
   -ie, on Windows:
   ```
-  java src.Main
+  java Main
   ```
