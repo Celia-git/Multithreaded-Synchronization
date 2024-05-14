@@ -1,8 +1,4 @@
 
-
-import Car;
-import Bridge;
-
 /**
  *
  * @author Celia Hough Project 4: Java Programming of OS Concepts
